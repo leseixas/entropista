@@ -31,3 +31,6 @@ from ase import __version__ as __ase_version__
 from numpy import __version__ as __numpy_version__
 from pandas import __version__ as __pandas_version__
 
+from .warrencowley import WarrenCowley
+from .distortion import Distortion
+from .montecarlo import MonteCarlo
