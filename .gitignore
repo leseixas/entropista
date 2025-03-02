@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#MacOS file
+.DS_Store
+
+# Others
+past_dist/
+
