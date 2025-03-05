@@ -176,3 +176,4 @@ cython_debug/
 # Others
 past_dist/
 
+test/
